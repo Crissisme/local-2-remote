@@ -8,3 +8,4 @@ in local-2-remote.other folder, modified readme, waiting for the confliction wit
 
 ================
 fast-forward in branch-a, commit-0 --> commit-1
+fast-forward commit-0 --> commit-0.1 on dev
